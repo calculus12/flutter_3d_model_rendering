@@ -49,6 +49,6 @@ app.*.map.json
 /linux/
 /macos/
 /web/
-
+/windows/
 # 3D Model asset
 /assets/model/
