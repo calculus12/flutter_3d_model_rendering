@@ -10,7 +10,7 @@
 - `ModelWidget` 위젯의 `src` 파라미터에 `assets/model/` 디렉토리에 있는 `.glb` 혹은 `.gltf` 포맷의 3D 모델 파일의 식별자를 전달합니다.
 - 아래와 같이 `SizedBox` 혹은 `Container` 등과 같이 사이즈를 지정할 수 있는 위젯에 래핑해서 사용합니다.
 ```dart
-# /lib/main.dart
+// /lib/main.dart
 class FirstScreen extends StatelessWidget {
   const FirstScreen({
     super.key,
