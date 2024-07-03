@@ -43,4 +43,4 @@ class FirstScreen extends StatelessWidget {
 ```
 
 ### reference
-- https://github.com/calculus12/model_viewer_plus.dart
+- https://github.com/omchiii/model_viewer_plus.dart
